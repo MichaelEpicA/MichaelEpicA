@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hello! I'm Michael. Short introduction of myself: I love coding. My favorite language is CS and I love to help.
+
 🔭 I’m currently working on nothing! (public atleast ;))
 
 ⚡ Fun fact: I am very generous.
@@ -23,6 +24,5 @@ Hello! I'm Michael. Short introduction of myself: I love coding. My favorite lan
 😄 Pronouns: he
 
 📫 How to reach me: Contact me on GitHub or on discord! MichaelEpicA TWOW#0023.
-
 
 👯 I’m looking to collaborate on nothing.
