@@ -21,7 +21,7 @@ Hello! I'm Michael. Short introduction of myself: I love coding. My favorite lan
 
 ⚡ Fun fact: I am very generous.
 
-😄 Pronouns: he
+😄 Pronouns: he/him
 
 📫 How to reach me: Contact me on GitHub or on discord! MichaelEpicA TWOW#0023.
 
