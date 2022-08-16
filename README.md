@@ -23,6 +23,6 @@ Hello! I'm Michael. Short introduction of myself: I love coding. My favorite lan
 
 😄 Pronouns: he/him
 
-📫 How to reach me: Contact me on GitHub or on discord! MichaelEpicA TWOW#6048 (lost #0023).
+📫 How to reach me: Contact me on GitHub or on discord! no (lost #0023).
 
 👯 I’m looking to collaborate on nothing.
